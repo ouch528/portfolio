@@ -14,6 +14,7 @@
 
 .image {
     margin-bottom: 26px;
+    margin-top: 26px;
     width: 200px;
     height: 200px;
     margin-left: auto;
@@ -106,5 +107,11 @@
 
     .skill {
         font-size: 1rem;
+    }
+
+    .image {
+        width: 100px;
+        height: 100px;
+        margin-top: 20px;
     }
 }
