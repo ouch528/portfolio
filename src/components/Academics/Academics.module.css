@@ -92,6 +92,7 @@
         flex-grow: 1; /* Ensures the course name takes up the remaining space */
         margin-right: 20px; /* Adds spacing between course name and grade */
         white-space: nowrap; /* Prevents text wrapping */
+        font-weight: 400;
     }
     
     .courseGrade {
