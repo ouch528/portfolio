@@ -82,7 +82,7 @@
 }
 
 @media screen and (max-width: 453px) {
-    .link a {
+    .link a:not(:has(img)) { /* Targets text-only links */
         display: none;
     }
 
@@ -102,5 +102,9 @@
 
     .container {
         padding: 10%;
+    }
+
+    .link img {
+        width: 2em;
     }
 }
