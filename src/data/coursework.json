@@ -1,0 +1,47 @@
+[
+    {
+        "code": "BT1101",
+        "name": "Introduction to Business Analytics",
+        "grade": "A+"     
+    },
+    {
+        "code": "BT2101",
+        "name": "Econometrics Modeling for Business Analytics",
+        "grade": "A"   
+    },
+    {
+        "code": "BT2102",
+        "name": "Data Management and Visualisation",
+        "grade": "A+"    
+    },
+    {
+        "code": "CS1010A",
+        "name": "Programming Methodology I",
+        "grade": "A"    
+    },
+    {
+        "code": "CS2030",
+        "name": "Programming Methodology II (Object-Oriented Programming)",
+        "grade": "A-"     
+    },
+    {
+        "code": "CS2040",
+        "name": "Data Structures and Algorithms",
+        "grade": "A"     
+    },
+    {
+        "code": "MA1521",
+        "name": "Calculus for Computing",
+        "grade": "A+"     
+    },
+    {
+        "code": "MA1522",
+        "name": "Linear Algebra for Computing",
+        "grade": "A"     
+    },
+    {
+        "code": "MA2311",
+        "name": "Techniques in Advanced Calculus",
+        "grade": "A+"     
+    }
+]

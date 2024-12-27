@@ -1,0 +1,110 @@
+@import "../../vars.css";
+
+.container {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+    box-shadow: 0 16px 14px 0 #04152d;
+    padding: 18px 24px;
+    max-width: 300px;
+    height: 42em;
+    margin: 15px;
+}
+
+.image {
+    margin-bottom: 26px;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+.description {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: 400;
+    text-align: left;
+    word-spacing: 2px;
+    line-height: 1.4;
+}
+
+.skills {
+    width: 100%;
+    margin-top: 14px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 6px;
+    list-style: none;
+}
+
+.skill {
+    font-size: 0.8rem;
+    font-weight: 400;
+    border-radius: 100px;
+    background: var(--color-dark);
+    padding: 0.3em 1em;
+}
+
+.links {
+    width: 100%;
+    margin-top: 26px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.link {
+    text-decoration: none;
+    color: var(--color-text);
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 100px;
+    background: var(--color-primary);
+    padding: 0.5em 1em;
+}
+
+@media screen and (max-width: 1100px) {
+    .container {
+        flex-direction: column;
+        height: 770px;
+    }
+    
+    .title {
+        font-size: 2rem;
+    }
+
+    .description {
+        font-size: 1.2rem;
+    }
+
+    .skill {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 841px) {
+    .container {
+        flex-direction: column;
+        height: auto;
+    }
+    
+    .title {
+        font-size: 2rem;
+    }
+
+    .description {
+        font-size: 1.2rem;
+    }
+
+    .skill {
+        font-size: 1rem;
+    }
+}

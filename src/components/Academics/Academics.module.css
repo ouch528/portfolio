@@ -1,0 +1,191 @@
+@import "../../vars.css";
+
+.container {
+    color: var(--color-text);
+    /* background: linear-gradient(90.2deg, rgb(75, 68, 229) 2%, rgb(97, 212, 202) 98.3%);     */
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    
+    margin-top: 79px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 15px;
+    padding: 46px;
+    z-index: 1;
+}
+
+.title {
+    color: var(--color-text);
+    font-size: 2.5rem;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.academicDetails {
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    line-height: 1.5;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 15px;
+    margin-top: 14px;
+    background: rgb(57, 57, 198);     
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.achievements {
+    display: flex;
+    flex-direction: column;
+    background: blue; 
+    font-family: var(--font-roboto);
+}
+
+.achievement {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    gap: 10px;
+    font-size: 1rem;
+}
+
+.course {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    list-style: none;
+}
+
+.subTitle {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
+
+.courseworkItemDetails {
+    font-size: 1rem;
+}
+
+@media screen and (min-width: 1100px) {
+    .course {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        list-style: none;
+    }
+    
+    .courseworkItem {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        padding: 8px 0;
+    }
+    
+    .courseworkItemDetails {
+        flex-grow: 1; /* Ensures the course name takes up the remaining space */
+        margin-right: 20px; /* Adds spacing between course name and grade */
+        white-space: nowrap; /* Prevents text wrapping */
+    }
+    
+    .courseGrade {
+        text-align: right;
+        white-space: nowrap;
+        display: flex;
+        align-items: center;
+    }
+
+    .achievements {
+        display: flex; /* Align name and button in a single line */
+        justify-content: space-between; /* Ensure button stays to the right */
+        gap: 0.5em; /* Add some spacing between name and button */
+        flex-wrap: wrap; 
+        white-space: nowrap;
+        width: 100%;
+        align-items: center;
+    }
+
+    .achievement {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+    }
+
+    .achievementItem {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        white-space: nowrap;
+    }
+
+    .links {
+        width: 100%;
+        display: flex;
+        align-items: end;
+        margin-right: 5%; /* Push the button to the far right */
+        margin-left: auto;
+        justify-content: flex-end;
+    }
+    
+    .link {
+        text-decoration: none;
+        color: var(--color-text);
+        font-size: 0.8rem;
+        font-weight: 600;
+        border-radius: 100px;
+        background: var(--color-primary);
+        padding: 0.3em 0.8em;
+        display: flex;
+        white-space: nowrap; /* Prevents button text from wrapping */
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .content {
+        flex-direction: column;
+    }
+
+    .history {
+        width: 100%;
+        gap: 9px;
+    }
+
+    .container {
+        background: none;
+        padding: 0;
+    }
+
+    .title {
+        font-size: 2rem;
+        text-align: left;
+    }
+
+    .subTitle {
+        margin-bottom: 20px;
+    }
+
+    .course {
+        gap: 15px;
+    }
+    
+    .academicDetails {
+        font-size: 1.3rem;
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        line-height: 1.5;
+    }
+
+    .link {
+        color: white;
+    }
+}

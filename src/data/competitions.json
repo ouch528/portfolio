@@ -1,0 +1,32 @@
+[
+    {
+        "name": "NUS SDS Data Visualisation Competition",
+        "position": "First-Runners up",
+        "description": [
+            "Our team finished second place among 40 teams in a competition about finding out popular music trends from the 1980s",
+            "Given a dataset of musical attributes, our team utilised k-Means clustering to group songs into genres",
+            "We then created a variety of data visualisations using the results from the analysis",
+            "Came up with a data-driven infographic and gave a presentation to a panel of judges"
+        ],
+        "skills": [
+            "Data Visualisation",
+            "Principal Component Analysis"
+        ],
+        "source": "https://www.canva.com/design/DAGQt60KYN0/TJv_iYDwQeKlhZWUlnAtXA/edit?utm_content=DAGQt60KYN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    },
+    {
+        "name": "Micron Business Analytics Case Competition",
+        "position": "First-Runners up",
+        "description": [
+            "Our team finished second place among 150 teams in a competition organised by Micron",
+            "We came up with a forecast using time series analysis based on historical usage trends of the materials",
+            "Given a set of constraints to the production, our team also utilised advanced optimisation algorithms to come up with one of the top-performing production plans",
+            "Our solution has managed to return one of the highest profit after following all the constraints"
+        ],
+        "skills": [
+            "Optimisation",
+            "Time Series Analysis"
+        ],
+        "source": "https://docs.google.com/document/d/1vd6v_eA7Xtn5DD84ETXm1xZxwxZleZnlCa1pGKbMfGA/edit?tab=t.0"
+    }
+]
