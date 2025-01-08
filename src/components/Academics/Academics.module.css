@@ -131,7 +131,7 @@
         width: 100%;
         display: flex;
         align-items: end;
-        margin-right: 5%; /* Push the button to the far right */
+        margin-right: 3%; /* Push the button to the far right */
         margin-left: auto;
         justify-content: flex-end;
     }
@@ -139,13 +139,15 @@
     .link {
         text-decoration: none;
         color: var(--color-text);
-        font-size: 0.8rem;
+        font-size: 0.75rem;
         font-weight: 600;
         border-radius: 100px;
         background: var(--color-primary);
-        padding: 0.3em 0.8em;
+        padding: 0.4em 0.8em;
         display: flex;
         white-space: nowrap; /* Prevents button text from wrapping */
+        border: black; /* Solid border with a custom color */
+        cursor: pointer;
     }
 }
 

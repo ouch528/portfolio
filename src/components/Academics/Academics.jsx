@@ -19,7 +19,7 @@ export const Academics = () => {
 
     const school = "National University of Singapore (NUS), School of Computing";
     const major = "Business Analytics (Specialization in Machine Learning), Second Major in Statistics";
-    const gpa = "4.97/5.0";
+    const gpa = "4.97 / 5.0";
 
     return (
         <section className={styles.container} id="academics">
