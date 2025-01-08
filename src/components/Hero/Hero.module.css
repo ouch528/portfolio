@@ -218,7 +218,7 @@
     }
 
     .title {
-        font-size: 3rem; /* Reduce title font size */
+        font-size: 2.75rem; /* Reduce title font size */
         margin-bottom: 20px;
         white-space: nowrap;
     }
@@ -228,14 +228,15 @@
         line-height: 1.4;
         margin-bottom: 30px;
         text-align: left;
-        margin-left: 0;
-        margin-right: auto;
+        margin-left: 5%;
+        margin-right: 5%;
     }
 
     .brand {
-        font-size: 1.75rem;
+        font-size: 1.5rem;
         text-align: left;
-        margin-left: 0;
+        margin-left: 15%;
+        margin-right: 5%;        
         width: 100%;
         margin-top: 20px;
         margin-bottom: 30px;
