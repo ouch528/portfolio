@@ -1,5 +1,23 @@
 [
     {
+        "role": "Actuarial Data Analyst",
+        "organisation": "Munich RE",
+        "dates": [
+            {
+                "startDate": "Jan 2025",
+                "endDate": "Present"
+            }
+        ],
+        "experiences": [
+            "Processed and transformed raw data from clients using Python and SQL scripts before building the dashboards",
+            "Managed and developed dashboards of Key Treaty Agreements using PowerBI, monitoring the performance of each treaty"
+        ],
+        "skills": [
+            "Data Processing",
+            "Data Visualisation"
+        ]
+    },
+    {
         "role": "BT1101 Teaching Assistant",
         "organisation": "NUS School of Computing",
         "dates": [
