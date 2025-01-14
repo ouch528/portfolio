@@ -8,6 +8,7 @@ import { Projects } from './components/Projects/Projects';
 import { Contact } from './components/Contact/Contact';
 import { Competitions } from './components/Competitions/Competitions';
 import { Academics } from './components/Academics/Academics';
+import { Copyright } from './components/Copyright/Copyright';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Competitions />
       <Projects />
       <Contact />
+      <Copyright />
     </div>
   );
 }
