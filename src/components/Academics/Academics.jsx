@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import coursework from "../../data/coursework.json";
 import achievements from "../../data/achievements.json";
+import transcript from "../../files/Transcript.pdf"
 import styles from "./Academics.module.css";
 
 export const Academics = () => {
@@ -79,6 +80,9 @@ export const Academics = () => {
                         </li>
                     ))}
                 </ul>
+                <div className={styles.linkA}>
+                    <a href={transcript} target="_blank" rel="noopener noreferrer" className={styles.linkT}>View Full Transcript</a>
+                </div>
             </div>
         </section>
     );
