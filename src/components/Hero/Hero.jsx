@@ -38,7 +38,7 @@ export const Hero = () => {
                     I am able to come up with creative solutions to problems using the data available that can induce great changes.
                     Reach out if you’d like to have a chat!
                 </p>
-                <a href="mailto:ungchan052804@gmail.com" className={styles.contactBtn}>
+                <a href="mailto:oh_ungchan@u.nus.edu" className={styles.contactBtn}>
                     Contact Me
                 </a>
             </div>

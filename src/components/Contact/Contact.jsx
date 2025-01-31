@@ -11,11 +11,11 @@ export const Contact = () => {
             </div>
             <ul className={styles.links}>
                 <li className={styles.link}>
-                    <a href="mailto:ungchan052804@gmail.com" target="_blank" rel="noopener noreferrer">
+                    <a href="mailto:oh_ungchan@u.nus.edu" target="_blank" rel="noopener noreferrer">
                         <img src={getImageUrl("contact/email.png")} alt="Email icon" />
                     </a>
-                    <a href="mailto:ungchan052804@gmail.com" target="_blank" rel="noopener noreferrer">
-                        ungchan052804@gmail.com
+                    <a href="mailto:oh_ungchan@u.nus.edu" target="_blank" rel="noopener noreferrer">
+                        oh_ungchan@u.nus.edu
                     </a>
                 </li>
                 <li className={styles.link}>

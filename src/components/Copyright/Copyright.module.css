@@ -8,4 +8,5 @@
     border-top: 1px solid rgba(255, 255, 255, 0.2); /* Optional for separation */
     background-color: rgb(9, 9, 70); /* Matches your design */
     width: 100%; /* Ensure it spans the full width */
+    line-height: 1.5;
 }

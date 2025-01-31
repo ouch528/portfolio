@@ -4,7 +4,7 @@ import styles from "./Copyright.module.css";
 export const Copyright = () => {
     return (
         <div className={styles.copyright} id="copyright">
-            <p>© {new Date().getFullYear()} Oh Ungchan. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} OH UNGCHAN <br></br>All rights reserved</p>
         </div>
     );
 };
