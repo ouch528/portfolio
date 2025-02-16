@@ -1,6 +1,23 @@
 [
     {
-        "name": "NUS SDS Data Visualisation Competition",
+        "name": "NUS Datathon 2025",
+        "position": "Champions",
+        "description": [
+            "Our team finished as Category A (advanced) Champions among 75 teams in the datathon hosted in partnership with SingLife",
+            "Given three datasets of agents, clients, policies, we had to build a recommendation system that recommends the most suitable financial advisor to each client",
+            "Our team created the entire machine learning pipeline",
+            "Developed a hybrid model using Siamese Neural Network for similarity learning and XGBoost for ranking recommendations",
+            "Optimized both predictive accuracy and interpretability to ensure real-world usability",
+            "Presented solution to a panel of judges, and highlighted the business applications of the model"
+        ],
+        "skills": [
+            "Recommendation System",
+            "Machine Learning Pipeline"
+        ],
+        "source": "https://drive.google.com/drive/u/0/folders/1ZWUBw-zyfYGuyv1Lf4hyNwlxgojRDZq0"
+    },
+    {
+        "name": "NUS SDS Mini Data Competition 2024",
         "position": "First-Runners up",
         "description": [
             "Our team finished second place among 40 teams in a competition about finding out popular music trends from the 1980s",
@@ -15,7 +32,7 @@
         "source": "https://www.canva.com/design/DAGQt60KYN0/TJv_iYDwQeKlhZWUlnAtXA/edit?utm_content=DAGQt60KYN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
     },
     {
-        "name": "Micron Business Analytics Case Competition",
+        "name": "NUS ISE-Micron Business Analytics Case Competition 2024",
         "position": "First-Runners up",
         "description": [
             "Our team finished second place among 150 teams in a competition organised by Micron",

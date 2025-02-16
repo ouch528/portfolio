@@ -3,11 +3,11 @@ import { getImageUrl } from "../../utils";
 import styles from "./Hero.module.css";
 
 export const Hero = () => {
-    const [currentAchievement, setCurrentAchievement] = useState("Dean's List");
+    const [currentAchievement, setCurrentAchievement] = useState("2 x Dean's List");
 
     // Alternate between achievements
     useEffect(() => {
-        const achievements = ["Dean's List", "Data Competition Winner"];
+        const achievements = ["2 x Dean's List", "3 x Data Competition Winner"];
         let index = 0;
 
         const interval = setInterval(() => {
@@ -25,7 +25,7 @@ export const Hero = () => {
                     Hi, I'm Ungchan
                 </h1>
                 <h2 className={styles.brand}>
-                    <span className={styles.fixed}>2 x </span>
+                    {/* <span className={styles.fixed}>2 x </span> */}
                     <span className={styles.achievement}>{currentAchievement}</span>
                 </h2>
                 <p className={styles.description}>
