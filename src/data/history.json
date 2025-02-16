@@ -9,7 +9,7 @@
             }
         ],
         "experiences": [
-            "Processed and transformed raw data from clients using Python and SQL scripts before building the dashboards",
+            "Processed and transformed raw data from clients using Excel VBA, Python and SQL scripts before building the dashboards",
             "Maintained and developed dashboards of Key Treaty Agreements using PowerBI, monitoring the performance of each treaty",
             "Analyzed and presented unusual observations using the dashboards, allowing the team to do a further check on the accuracy of the data",
             "Optimised the refreshing of the dashboard by 25% using more efficient Python and DAX queries"
