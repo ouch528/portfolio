@@ -12,11 +12,15 @@
             "Processed and transformed raw data from clients using Excel VBA, Python and SQL scripts before building the dashboards",
             "Maintained and developed dashboards of Key Treaty Agreements using PowerBI, monitoring the performance of each treaty",
             "Analyzed and presented unusual observations using the dashboards, allowing the team to do a further check on the accuracy of the data",
-            "Optimised the refreshing of the dashboard by 25% using more efficient Python and DAX queries"
+            "Optimised the refreshing of the dashboard by 25% using more efficient Python and DAX queries",
+            "In charge of enhancing and ideation for an upload tool that uploads csv files to databases by streamlining the process using Python scripts",
+            "Improving error handling for raw data uploads using Large Language Models to generate user-friendly and interpretable error messages",
+            "Developing a Retrieval-Augmented Generation (RAG) system to enable efficient retrieval and summarization of treaty information"
         ],
         "skills": [
             "Data Processing",
-            "Data Visualisation"
+            "Data Visualisation",
+            "Application of AI Tools"
         ]
     },
     {
