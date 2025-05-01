@@ -25,7 +25,7 @@ jobs:
         run: npm run build
 
   deploy:
-    needs: build
+    needs: build-and-test
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     steps:
@@ -42,6 +42,11 @@ jobs:
 
       - name: Build project
         run: npm run build
+
+      - name: Configure Git identity
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
 
       - name: Deploy to GitHub Pages
         run: npm run deploy
