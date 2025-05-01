@@ -1,15 +1,27 @@
 [
     {
-        "title": "Soccer Manager Sacking Predictor",
-        "imageSrc": "projects/soccer.png",
-        "description": "Machine Learning Project to predict whether a soccer manager will get sacked based on recent performance and fan’s sentiments.",
+        "title": "Spotifǐnd",
+        "imageSrc": "",
+        "description": "Developed an advanced music recommendation system using multiple data sources, making tailored recommendations based on the nature of the playlist.",
         "skills": [
-            "AWS Cloud Services",
             "Machine Learning Models",
-            "Sentiment Analysis",
-            "Web Scraping"
+            "Econometrics",
+            "Feature Engineering",
+            "Model Interpretability"
         ],
-        "source": "https://github.com/ouch528/Soccer-Manager-Sacking"
+        "source": "https://github.com/ouch528/Spotifynd"
+    },
+    {
+        "title": "CanFindLah",
+        "imageSrc": "",
+        "description": "A web application to help NUS students recover lost items and report found items, using a secure matching algorithm and allow users to communicate with each other.",
+        "skills": [
+            "Full-Stack Web Application",
+            "Firebase Applications",
+            "AGILE Methodology",
+            "Vue.js"
+        ],
+        "source": "https://canfindlah-29ea7.web.app"
     },
     {
         "title": "Beijing Property Market Analysis",
@@ -53,7 +65,6 @@
         "skills": [
             "Full-Stack Web Application",
             "OpenAI API",
-            "Google OAuth2",
             "Google Calendar API"
         ],
         "source": "https://github.com/ouch528/24x365"

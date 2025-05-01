@@ -8,7 +8,7 @@
     box-shadow: 0 16px 14px 0 #04152d;
     padding: 18px 24px;
     max-width: 300px;
-    height: 43em;
+    height: 32rem;
     margin: 15px;
 }
 
@@ -23,18 +23,26 @@
 }
 
 .title {
-    font-size: 1.5rem;
+    margin-top: 0.5rem;
+    font-size: 2rem;
     font-weight: 700;
     text-align: center;
+    min-height: 5rem;
+    max-height: 5rem;;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
 }
 
 .description {
-    margin-top: 20px;
+    margin-top: 1rem;
     font-size: 1.2rem;
     font-weight: 400;
     text-align: left;
     word-spacing: 2px;
     line-height: 1.4;
+    min-height: 12rem;
+    max-height: 12rem;
 }
 
 .skills {
@@ -57,9 +65,10 @@
 
 .links {
     width: 100%;
-    margin-top: 26px;
     display: flex;
     justify-content: space-around;
+    margin-bottom: 0.5rem; /* or whatever fixed distance from bottom you want */
+    margin-top: auto;
 }
 
 .link {
