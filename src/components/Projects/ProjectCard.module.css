@@ -108,14 +108,29 @@
     
     .title {
         font-size: 2rem;
+        height: auto;
     }
 
     .description {
         font-size: 1.2rem;
+        min-height: auto;
+        max-height: auto;
+    }
+
+    .skills {
+        margin-top: 1rem;
+        min-height: auto;
+        max-height: auto;    
     }
 
     .skill {
         font-size: 1rem;
+        height: auto;
+    }
+
+    .links{
+        margin-top: 1.5rem;
+        margin-bottom: 0.5rem;
     }
 
     .image {
