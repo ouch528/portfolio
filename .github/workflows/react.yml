@@ -46,4 +46,12 @@ jobs:
       - name: Deploy to GitHub Pages
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npm run deploy
+          GIT_AUTHOR_NAME: github-actions-bot
+          GIT_AUTHOR_EMAIL: support+actions@github.com
+          GIT_COMMITTER_NAME: github-actions-bot
+          GIT_COMMITTER_EMAIL: support+actions@github.com
+        run: |
+          git config --global user.name "github-actions-bot"
+          git config --global user.email "support+actions@github.com"
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
+          npm run deploy
