@@ -2,9 +2,9 @@
     {
         "title": "Spotifǐnd",
         "imageSrc": "",
-        "description": "Developed an advanced music recommendation system using multiple data sources, making tailored recommendations based on the nature of the playlist.",
+        "description": "An advanced music recommendation system using multiple data sources, making tailored recommendations based on the nature of the playlist.",
         "skills": [
-            "Machine Learning Models",
+            "Recommedation System",
             "Econometrics",
             "Feature Engineering",
             "Model Interpretability"
