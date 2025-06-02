@@ -26,7 +26,7 @@
     {
         "title": "Beijing Property Market Analysis",
         "imageSrc": "projects/beijing_property.png",
-        "description": "Analysed Beijing’s property market from 2011 to 2017, the attributes of houses that have caused the rise in prices, as part of BT2102 coursework’s project",
+        "description": "Analysed Beijing’s property market from 2011 to 2017, the attributes of houses that have caused the rise in prices.",
         "skills": [
             "Tableau",
             "Data Storytelling",
@@ -38,13 +38,13 @@
     {
         "title": "Song Lyrics Classification",
         "imageSrc": "projects/lyricsClassification.png",
-        "description": "Collected numerous song lyrics based on different genres, and evaluated various machine learning models to classify the lyrics, as part of ISC213 coursework.",
+        "description": "Collected numerous song lyrics based on different genres, and evaluated various machine learning models to classify the lyrics.",
         "skills": [
             "Machine Learning Models",
             "Data Collection",
             "Text Vectorisation"
         ],
-        "source": "https://docs.google.com/spreadsheets/d/10Nxz8ikkza9hcb67wVTbD2jWn6ihE7ZF4V_HfthHWjc/edit?usp=sharing"
+        "source": "https://docs.google.com/document/d/1JBJ5pPwxYbs0oMyfuoPQ20dilVOHUh7lypiWj07hl-U/edit?usp=sharing"
     },
     {
         "title": "AI Cover Letter Generator",

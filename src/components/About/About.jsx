@@ -16,9 +16,10 @@ export const About = () => {
                     <li className={styles.aboutItem}> 
                         <img src={getImageUrl("about/dataAnalytics.png")} alt = "pic" className={styles.aboutItemImage}/>
                         <div className={styles.aboutItemText}> 
-                            <h3>Data Analytics</h3>
+                            <h3>High Performance</h3>
                             <p> 
-                                I love handling numbers to solve real-world business problems
+                                I am a high achiever, striving to be the best in everything I do.
+                                Having been consistently at the top in highly competitive environments, I have developed a strong work ethic and a drive to excel amidst high stress and pressure.
                             </p>
                         </div>
                     </li>
@@ -27,7 +28,7 @@ export const About = () => {
                         <div className={styles.aboutItemText}> 
                             <h3>Problem Solving</h3>
                             <p> 
-                               I have a passion and knack for solving problems through critical thinking
+                               I am able to recognize problems and inefficiencies, and I love coming up with creative solutions to solve them through innovations.
                             </p>
                         </div>
                     </li>

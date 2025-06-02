@@ -15,6 +15,16 @@
         "grade": "A+"    
     },
     {
+        "code": "BT3103",
+        "name": "Application Systems Development for Business Analytics",
+        "grade": "A"    
+    },
+    {
+        "code": "BT4222",
+        "name": "Mining Web Data for Business Insights",
+        "grade": "A"    
+    },
+    {
         "code": "CS1010A",
         "name": "Programming Methodology I",
         "grade": "A"    
@@ -42,6 +52,16 @@
     {
         "code": "MA2311",
         "name": "Techniques in Advanced Calculus",
+        "grade": "A+"     
+    },
+    {
+        "code": "ST1131",
+        "name": "Introduction to Statistics and Statistical Computing",
+        "grade": "A"     
+    },
+    {
+        "code": "ST2131",
+        "name": "Probability",
         "grade": "A+"     
     }
 ]

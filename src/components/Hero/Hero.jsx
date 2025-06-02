@@ -7,7 +7,7 @@ export const Hero = () => {
 
     // Alternate between achievements
     useEffect(() => {
-        const achievements = ["2 x Dean's List", "3 x Data Competition Winner"];
+        const achievements = ["3 x Dean's List", "4 x Data Competition Winner"];
         let index = 0;
 
         const interval = setInterval(() => {

@@ -14,7 +14,22 @@
             "Recommendation System",
             "Machine Learning Pipeline"
         ],
-        "source": "https://drive.google.com/drive/u/0/folders/1ZWUBw-zyfYGuyv1Lf4hyNwlxgojRDZq0"
+        "source": "https://drive.google.com/drive/folders/11GsxwqguLpuvbHOE80YLMq6cIu0X8asL?usp=share_link"
+    },
+    {
+        "name": "National AI Student Challenge 2025",
+        "position": "First-Runners up",
+        "description": [
+            "Our team finished second place in the DataRobot Track among 20 teams in a competition about predictive maintenance",
+            "We utilized DataRobot to build a machine learning model that predicts the failure of a machine based on past maintenance data",
+            "Integrated regression and forecasting models to anticipate downtime patterns and support proactive maintenance planning",
+            "Presented our solution to a panel of industry experts and judges during the National AI Student Developer Conference"
+        ],
+        "skills": [
+            "Predictive Maintenance",
+            "Machine Learning Pipeline"
+        ],
+        "source": "https://drive.google.com/drive/folders/1w7V6hVgmR8hAVj7AfyoOt7o3zg-L12cM?usp=share_link"
     },
     {
         "name": "NUS SDS Mini Data Competition 2024",
@@ -29,7 +44,7 @@
             "Data Visualisation",
             "Principal Component Analysis"
         ],
-        "source": "https://www.canva.com/design/DAGQt60KYN0/TJv_iYDwQeKlhZWUlnAtXA/edit?utm_content=DAGQt60KYN0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+        "source": "https://drive.google.com/drive/folders/1NZ5HDDLrN0EOW_KbiVmfoqiil7crDTOK?usp=share_link"
     },
     {
         "name": "NUS ISE-Micron Business Analytics Case Competition 2024",
@@ -44,6 +59,6 @@
             "Optimisation",
             "Time Series Analysis"
         ],
-        "source": "https://docs.google.com/document/d/1vd6v_eA7Xtn5DD84ETXm1xZxwxZleZnlCa1pGKbMfGA/edit?tab=t.0"
+        "source": "https://drive.google.com/drive/folders/1K63mJZ8v7oZyvqCfne3yFvb2KRXpBHoS?usp=share_link"
     }
 ]
