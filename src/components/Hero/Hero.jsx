@@ -3,7 +3,7 @@ import { getImageUrl } from "../../utils";
 import styles from "./Hero.module.css";
 
 export const Hero = () => {
-    const [currentAchievement, setCurrentAchievement] = useState("2 x Dean's List");
+    const [currentAchievement, setCurrentAchievement] = useState("3 x Dean's List");
 
     // Alternate between achievements
     useEffect(() => {
