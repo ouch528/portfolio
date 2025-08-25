@@ -25,7 +25,7 @@ export const Navbar = () => {
         <nav className={navbar ? styles['navbar-active'] : styles.navbar}>
             <div className={styles.navbarContainer}>
 
-                <a className={styles.title} href='/'>
+                <a className={styles.title} href='/portfolio/'>
                     Portfolio
                 </a>
                 <div className={styles.menu}>

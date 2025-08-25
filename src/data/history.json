@@ -1,22 +1,35 @@
 [
     {
+        "role": "Software Engineer",
+        "organisation": "Republic of Korea Air Force",
+        "dates": [
+            {
+                "startDate": "Starting Oct 2025",
+                "endDate": ""
+            }
+        ],
+        "experiences": [
+        ],
+        "skills": [
+        ]
+    },
+    {
         "role": "Actuarial Data Analyst Intern",
         "organisation": "Munich RE",
         "dates": [
             {
                 "startDate": "Jan 2025",
-                "endDate": "Present"
+                "endDate": "Jul 2025"
             }
         ],
         "experiences": [
-            "Processed and transformed raw data from clients using Excel VBA, Python and SQL scripts before building the dashboards",
-            "Handled large insurance datasets of more than 1 million rows, ensuring data consistency and accuracy",
-            "Maintained and developed dashboards of Key Treaty Agreements using PowerBI, monitoring the performance of each treaty",
-            "Analyzed and presented unusual observations using the dashboards, allowing the team to do a further check on the accuracy of the data",
-            "Optimised the refreshing of the dashboard by 25% using more efficient Python and DAX queries",
-            "In charge of enhancing and ideation for an upload tool that uploads csv files to databases by streamlining the process using Python scripts",
-            "Improved error handling for raw data uploads using Large Language Models to generate user-friendly and interpretable error messages",
-            "Categorizing claims to category and subcategory using Large Language Models to improve the accuracy and automation of the categorization process"
+            "Spearheaded multiple Generative AI initiatives, including integration of Large Language Models for business use cases",
+            "Reduced data labelling time by 60% by designing and developing a RAG solution that automated claim classification",
+            "Improved error handling for raw data uploads using Large Language Models to generate more interpretable error messages",
+            "Cleaned and processed ~30 million insurance records, reducing nulls from ~15 millions to ~20 thousands for accurate downstream analysis",
+            "Investigated and resolved ~$3 million in premium discrepancies by reconciling cleaned data through statistical validation",
+            "Collaborated with actuaries and underwriters to deliver production-ready data and digital solutions",
+            "Contract extended twice upon manager’s request, reflecting strong performance and continued project impact"
         ],
         "skills": [
             "Data Processing",

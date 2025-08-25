@@ -34,7 +34,7 @@ export const Hero = () => {
                     And my achievements are just a natural by-product of the process.
                     <br />
                     <br />
-                    I’m an aspiring Data Analyst with a passion for Machine Learning and Artificial Intelligence.
+                    I’m an aspiring Data Scientist with a passion for Machine Learning and Artificial Intelligence.
                     I am able to come up with creative solutions to problems using the data available that can induce great changes.
                     Reach out if you’d like to have a chat!
                 </p>
