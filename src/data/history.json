@@ -19,7 +19,7 @@
         "dates": [
             {
                 "startDate": "Jan 2025",
-                "endDate": "Jul 2025"
+                "endDate": "Aug 2025"
             }
         ],
         "experiences": [
@@ -60,7 +60,7 @@
     },
     {
         "role": "IT Project Assistant",
-        "organisation": "ThinkSmart Pte Ltd",
+        "organisation": "Thinksmart Learning Pte Ltd",
         "dates": [
             {
                 "startDate": "May 2024",
@@ -72,9 +72,11 @@
             }
         ],
         "experiences": [
-            "Increased operational efficiency by 30% by automating key IT processes and tasks for projects.",
-            "Visualised business insights effectively by designing and deploying interactive dashboards using Power BI",
-            "Automated training processes for an engineering company by conducting research and implementing a SharePoint-based solution."
+            "Increased operational efficiency by 30% by automating key IT processes and tasks for projects",
+            "Streamlined data workflows and improved processing speed by automating Excel file merging using Python and Pandas",
+            "Visualized business insights effectively by designing and deploying interactive dashboards using Power BI",
+            "Automated training processes for an engineering company by conducting research and implementing a SharePoint-based solution",
+            "Improved employee onboarding and training efficiency by editing and optimizing training videos for inclusion in a custom Learning Management System (LMS)"
         ],
         "skills": [
             "Automation",
